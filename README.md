@@ -2,8 +2,6 @@
 ClimaiOS is a dark-mode enabled weather app that can check the weather for the current location based on the GPS data from the iPhone as well as by searching for a city manually.
 
 
-# Things I learned
-
 Through developing this app, I gained and solidified knowledge in various learning topics, including...
 
 * How to create a dark-mode enabled app.
